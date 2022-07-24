@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo con Juan",
+      "email": "kokedeath.xd@gmail.com",
+      "telefono": "1230402081",
+      "notas": "ACTUALIZADO!!",
+      "id": 1
+    },
+    {
+      "nombre": "Jorge Roberto",
+      "empresa": "x empresa",
+      "email": "simeven@correo.com",
+      "telefono": "122313111312313",
+      "notas": "super koke",
+      "id": 2
+    },
+    {
+      "nombre": "chester",
+      "empresa": "jugosChester",
+      "email": "kafszdf@gsdgkms.com",
+      "telefono": "123123123",
+      "notas": "chesterwick",
+      "id": 3
+    },
+    {
+      "nombre": "Pau",
+      "empresa": "pau construcciones",
+      "email": "simeven@correo.com",
+      "telefono": "4454554",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Prince Chukiris",
+      "empresa": "sdf",
+      "email": "prince@correo.com",
+      "telefono": "74151551",
+      "notas": "solicita croquetaas",
+      "id": 6
+    }
+  ]
+}
